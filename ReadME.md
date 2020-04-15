@@ -1,4 +1,4 @@
-This is the beginning of the Friends' travel app! 
+This is the beginning of the friendlyTravel app! 
 
 If you are a globetrotter and meet people around the world, then this app is just for you. 
 
